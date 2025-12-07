@@ -1,0 +1,56 @@
+{
+    "add_hover_pressed": true,
+    "add_is_visible": true,
+    "can_fit_height": true,
+    "can_fit_width": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 280
+    },
+    "display": "markdown-text",
+    "fields": {
+        "AAE": {
+            "caption": "Markdown Text",
+            "editor": "DynamicValue",
+            "long_text": true,
+            "name": "markdown_text",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAG": {
+            "caption": "Font Type",
+            "default_val": "font-sans",
+            "editor": "Dropdown",
+            "name": "font_type",
+            "options": "font-sans,font-serif,font-mono",
+            "rank": 1
+        },
+        "AAH": {
+            "caption": "theme_mode",
+            "default_val": "dark",
+            "editor": "Dropdown",
+            "name": "theme_mode",
+            "options": "dark,light",
+            "rank": 2
+        },
+        "AAK": {
+            "caption": "unique_id",
+            "editor": "DynamicValue",
+            "name": "unique_id",
+            "rank": 3,
+            "value": "text"
+        }
+    },
+    "icon": "ion-android-textsms",
+    "platform_type": "web",
+    "property_applications": {
+        "Background": true,
+        "Border": true,
+        "BoxShadow": true,
+        "Font": true,
+        "MinWidth": true,
+        "Padding": true,
+        "resizable": true
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "artificial intelligence (AI)",
+        "1": "chat"
+    },
+    "data_tracked": false,
+    "description": "This free plugin allows you to add markdown text to your bubble.io AI application. Great for streaming beautiful markdown text within your application. \n\nComes with the ability to handle both light mode and dark mode text.\n\nCredits:\n\nThis plugin is a more customizable fork of the open source plugin called 'Markdown Element for AI Chat' (created by the bubble contributor 'NoCode AI')",
+    "image": "//meta-q.cdn.bubble.io/f1756385254274x594677926183808600/Copy%20of%20Untitled%20Design%20%2810%29.png",
+    "license": "open_source",
+    "name": "AI Chat Markdown",
+    "plugin_instructions": "Search for the element 'markdown-text' and place it on your page. There is a section in the properties panel where you can add your markdown text that you want to render onto the page."
+}

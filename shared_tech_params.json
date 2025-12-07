@@ -1,0 +1,20 @@
+{
+    "assets": {
+        "AAC": {
+            "name": "tailwind-typography-v2",
+            "url": "//meta-q.cdn.bubble.io/f1756245242833x570194076433894850/tailwind-typography-v2.css"
+        },
+        "AAI": {
+            "name": "newdarkmod",
+            "url": "//meta-q.cdn.bubble.io/f1764440234371x398484756919871500/newdm.css.css"
+        },
+        "AAJ": {
+            "name": "newdarkmode",
+            "url": "//meta-q.cdn.bubble.io/f1764440251164x998866748411772400/newdm.css"
+        }
+    },
+    "dependencies": {
+        "plugin_api_version": 4,
+        "use_jquery": true
+    }
+}
